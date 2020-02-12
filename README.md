@@ -1,6 +1,6 @@
 # XelionZR
 
-## Table of Contents
+## Contenidos
 
 - [Acerca de](#about)
 - [Uso](#getting_started)
