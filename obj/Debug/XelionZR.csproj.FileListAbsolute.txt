@@ -1,0 +1,6 @@
+D:\Programacion\C#\XelionZR\XelionZR\obj\Debug\XelionZR.csprojAssemblyReference.cache
+D:\Programacion\C#\XelionZR\XelionZR\bin\Debug\XelionZR.exe.config
+D:\Programacion\C#\XelionZR\XelionZR\bin\Debug\XelionZR.exe
+D:\Programacion\C#\XelionZR\XelionZR\bin\Debug\XelionZR.pdb
+D:\Programacion\C#\XelionZR\XelionZR\obj\Debug\XelionZR.exe
+D:\Programacion\C#\XelionZR\XelionZR\obj\Debug\XelionZR.pdb
